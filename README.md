@@ -1,3 +1,3 @@
 # wsl-ui
 
-This is a awesome UI-framework with vue-next.
+This is a awesome UI framework built with vue-next.
