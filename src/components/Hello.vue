@@ -1,5 +1,5 @@
 <template>
-  hello,vue3
+  hello
 </template>
 
 <script>
