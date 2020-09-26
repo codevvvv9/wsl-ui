@@ -5,8 +5,8 @@
       <h1>vvheel UI Framework</h1>
       <h2>This is a awesome UI framework</h2>
       <p class="actions">
-        <a href="">Github</a>
-        <a href="">开始</a>
+        <a href="https://github.com/codevvvv9/wsl-ui">Github</a>
+        <router-link to="/doc">开始</router-link>
       </p>
     </div>
   </div>
